@@ -39,7 +39,7 @@
 -->
     <!-- Huawei blanc (BLA-L29) TWRP 14.1 forks -->
     <project path="bootable/recovery" name="drolevar/twrp_bootable_recovery" remote="huawei-forks" revision="29f6b67675ac61b793a7a8e2d0a0c48932d546f8" upstream="blanc-twrp14"/>
-    <project path="device/huawei/blanc" name="drolevar/twrp_device_huawei_blanc" remote="huawei-forks" revision="25dc8c574759297d82653a601a3a0e050eebf2ad" upstream="blanc-twrp14"/>
+    <project path="device/huawei/blanc" name="drolevar/twrp_device_huawei_blanc" remote="huawei-forks" revision="17852f69766cd4bad6b76311ed3951a203f6cb8a" upstream="blanc-twrp14"/>
 
     <!-- Use TeamWin repos for full recovery compatibility -->
     <project path="build/make" name="android_build" remote="TeamWin" revision="android-14.1" groups="pdk">
