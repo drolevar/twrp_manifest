@@ -48,7 +48,7 @@
   <project name="android_vendor_twrp" path="vendor/twrp" remote="TeamWin" revision="1b4b1ff73617ff690ea525e1e1955ae9be603cbf" upstream="android-14.1" dest-branch="android-14.1"/>
   <project name="device/common" revision="bb1fa9edb22f1c9bf28f07f3d23c20789e61c14c" upstream="refs/tags/android-14.0.0_r67" dest-branch="refs/tags/android-14.0.0_r67" groups="pdk,pdk-cw-fs"/>
   <project name="drolevar/twrp_bootable_recovery" path="bootable/recovery" remote="huawei-forks" revision="f40378c3a3eb9d57414a0a6def2bf5a42043c5e6" upstream="blanc-twrp14" groups="local::huawei"/>
-  <project name="drolevar/twrp_device_huawei_blanc" path="device/huawei/blanc" remote="huawei-forks" revision="a0214f1775271d72db8d602e9697f5935148f386" upstream="codex/bla225-twrp-improvements" groups="local::huawei"/>
+  <project name="drolevar/twrp_device_huawei_blanc" path="device/huawei/blanc" remote="huawei-forks" revision="87deedf423ad4bd42b7aeef09a58d8078cf0f666" upstream="codex/bla225-twrp-improvements" groups="local::huawei"/>
   <project name="external_magisk-prebuilt" path="external/magisk-prebuilt" remote="TeamWin" revision="1e91763f0e216c2a674d018811967e0837b27e0e" upstream="android-12.1" dest-branch="android-12.1"/>
   <project name="kernel/configs" revision="c8839fdd3da998d3373b91e9b64b9e25483f72e8" upstream="refs/tags/android-14.0.0_r67" dest-branch="refs/tags/android-14.0.0_r67" groups="pdk,vts"/>
   <project name="kernel/prebuilts/5.15/arm64" revision="8779cf3f490111bc8a4e133a0be52557cfa0ccba" upstream="refs/tags/android-14.0.0_r67" dest-branch="refs/tags/android-14.0.0_r67" groups="pdk" clone-depth="1"/>
